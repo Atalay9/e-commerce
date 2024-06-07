@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\atalay\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\atalay\\.nuget\\packages"
+    ]
+  }
+}
